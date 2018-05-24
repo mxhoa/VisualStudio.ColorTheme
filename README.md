@@ -5,7 +5,7 @@ Theme screenshot:
 ![VisualStudio.ColorTheme](/hoamx_darktheme.PNG)
 
 More..
-![VisualStudio.ColorTheme](/hoamx_darktheme_for_Cplusplus.PNG)
+![VisualStudio.ColorTheme](/hoamx_darkthem_for_Ctrl_Click.PNG)
 
 
 How to import 
